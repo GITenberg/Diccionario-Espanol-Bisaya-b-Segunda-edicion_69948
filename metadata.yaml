@@ -1,0 +1,26 @@
+_repo: Diccionario-Espanol-Bisaya-b-Segunda-edicion_69948
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Encarnacion, Juan Felis de la
+    gutenberg_agent_id: '55507'
+    url: http://www.gutenberg.org/2009/agents/55507
+description: ''
+gutenberg_issued: '2023-02-04'
+identifiers:
+  gutenberg: '69948'
+language: es
+pgterms:marc905: 20090421100428encarnacio
+pgterms:marc906: '1866'
+pgterms:marc907: PH
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from scanned
+  images of public domain material from the Google Books project.)
+publication_note: '  $aPhilippines :$bImprenta de Miguel Sanchez, $c1866.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Diccionario Español-Bisaya : $b Segunda edición'
+url: http://www.gutenberg.org/ebooks/69948
