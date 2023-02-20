@@ -1,11 +1,16 @@
 _repo: Diccionario-Espanol-Bisaya-b-Segunda-edicion_69948
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69948-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Encarnacion, Juan Felis de la
     gutenberg_agent_id: '55507'
     url: http://www.gutenberg.org/2009/agents/55507
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69948#Diccionario-Espanol-Bisaya-b-Segunda-edicion
 gutenberg_issued: '2023-02-04'
 identifiers:
   gutenberg: '69948'
